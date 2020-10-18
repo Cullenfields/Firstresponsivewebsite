@@ -4,7 +4,7 @@ body {
 }
 
 .header {
-  background-color: #8ca3a3;
+  background-color: #d64161;
   color: white;
   height: 50vh;
   display: flex;
@@ -27,7 +27,7 @@ h2 {
 
 .main-body {
   max-height: auto;
-  background-color: #484f4f;
+  background-color: #ff7b25;
   color: white;  
 }
 
@@ -38,8 +38,8 @@ h2 {
 }
 
 .box {
-  height: 75px;
-  width: 180px;
+  height: 15px;
+  width: 105px;
 }
 
 .blue {
@@ -47,7 +47,7 @@ h2 {
 }
 
 .red {
-  background-color: #F46731;
+  background-color: #6b5b95;
 }
 
 .green {
